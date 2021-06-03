@@ -1,0 +1,18 @@
+html {
+    font-family: "Helvetica", sans-serif;
+
+    padding: 10px;
+}
+img {
+    vertical-align: middle;
+    transform: translateY(-10%);
+    width: 18px;
+    margin-right: 6px;
+}
+a:visited, a:link {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
